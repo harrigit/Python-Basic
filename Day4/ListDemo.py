@@ -1,0 +1,10 @@
+mylist=[30,50,20,11]
+mylist1=["HAris","Umar","Hashir","Khan"]
+mylist2=["HARIS",30,"Niazi",20]
+mylist3=list()
+print(mylist)
+print(mylist1)
+print(mylist2)
+print(mylist3)
+print(mylist[2])
+print(mylist2[1:3])

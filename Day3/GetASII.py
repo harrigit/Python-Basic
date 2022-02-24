@@ -1,0 +1,16 @@
+a=ord('A')
+print(a)
+a=chr(66)
+print(a)
+print(max("abc"))
+print(min("abc"))
+print(len("Muhammad Haris Khan"))
+h="Muhammad"
+print("har" in h)
+print("uh" in h)
+z="Muhammad Haris Khan Niazi"
+print(z.isalnum())
+print(z.lower())
+print(z.upper())
+print(z.find("Haris"))
+print(z.find("i"))
